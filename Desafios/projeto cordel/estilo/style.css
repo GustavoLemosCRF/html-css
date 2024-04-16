@@ -1,0 +1,49 @@
+@charset "UTF-8" ;
+
+header{
+    background-color: black;
+    text-align: center;
+}
+
+header > h1{
+    color: whitesmoke;
+    font-size: 10vw;
+    margin: 0px 0px 20px 0px;
+}
+
+header > p{
+    color: white;
+    font-size: 1em;
+    padding: 0px 0px 40px 0px ;
+}
+
+header > p > a{
+    color: white;
+    text-decoration: none;
+    font-size: 1em;
+    padding: 20px 0px 20px 0px ;
+}
+
+section{
+    background-color: white;
+}
+
+section > p{
+    background-color: white;
+}
+
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    margin: 0px 0px -19px 0px;
+    padding: 0px 0px 0px 0px;
+    font-size: 1.2em;
+}
+
+footer > p > a{
+    color: white;
+    text-decoration: none;
+    font-weight: bolder; 
+    
+}
